@@ -55,8 +55,6 @@ Install the required Python libraries using the following command:
 ```bash
 pip install -r requirements.txt
 
-
-```markdown
 ### 3. Download Dataset  
 Download the camera trap dataset from Mendeley Data:  
 ```bash
