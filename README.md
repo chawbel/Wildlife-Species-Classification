@@ -49,3 +49,16 @@ This project uses a **ResNet50-based CNN** to classify species (e.g., Impala, Ze
 ```bash
 git clone https://github.com/chawbel/Wildlife-Species-Classification.git
 cd Wildlife-Species-Classification
+
+### 2. Install Dependencies  
+Install the required Python libraries using the following command:  
+```bash
+pip install -r requirements.txt
+
+
+```markdown
+### 3. Download Dataset  
+Download the camera trap dataset from Mendeley Data:  
+```bash
+wget -O camera_trap_images.zip "https://prod-dcd-datasets-cache-zipfiles.s3.eu-west-1.amazonaws.com/6mhrhn7rxc-1.zip"
+unzip camera_trap_images.zip -d camera_trap_images
