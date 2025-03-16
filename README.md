@@ -44,7 +44,8 @@ This project uses a **ResNet50-based CNN** to classify species (e.g., Impala, Ze
 ---
 
 ## Setup and Usage  
- 
+```
+### 1. Clone the repository 
 ```bash
 git clone https://github.com/chawbel/Wildlife-Species-Classification.git
 cd Wildlife-Species-Classification
