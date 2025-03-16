@@ -39,7 +39,6 @@ This project uses a **ResNet50-based CNN** to classify species (e.g., Impala, Ze
 | **ResNet50**       | Pretrained model for feature extraction. |
 | **Pandas**         | Data cleaning and manipulation.          |
 | **OpenCV**         | Image preprocessing.                     |
-| **Gradio**         | Interactive demo deployment.             |
 | **Matplotlib/Seaborn** | Confusion matrix and result plotting.  |
 
 ---
