@@ -4,7 +4,7 @@
 
 **Classifying African Wildlife Using Camera Trap Images and Deep Learning**  
 
-![Project Banner](https://via.placeholder.com/800x200?text=Wildlife+Conservation+ML)  
+![Project Banner]([https://via.placeholder.com/800x200?text=Wildlife+Conservation+ML](https://www.google.com/url?sa=i&url=https%3A%2F%2Fenglish.news.cn%2F20220903%2F6417c68f1d0a4f0ab5f916647836f54f%2Fc.html&psig=AOvVaw08lHROfakdQgnbOfAA7OOY&ust=1742229110709000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiVqrWDj4wDFQAAAAAdAAAAABAE))  
 
 
 ---
