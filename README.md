@@ -1,5 +1,3 @@
-# Wildlife-Species-Classification
-
 # Wildlife Species Classification for Conservation  
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.12%2B-red)  
